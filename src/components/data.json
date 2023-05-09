@@ -1,0 +1,98 @@
+[
+   {
+      "Id": "1",
+      "name": "Jane Cooper",
+      "company": {
+         "id": "1a",
+         "name": "Microsoft"
+      },
+      "phone": "(225) 555-0118",
+      "email": "jane@microsoft.com",
+      "country": "United States",
+      "status": "0"
+   },
+   {
+      "Id": "2",
+      "name": "Floyd Miles",
+      "company": {
+         "id": "2a",
+         "name": "Yahoo"
+      },
+      "phone": "(205) 555-0100",
+      "email": "floyd@yahoo.com",
+      "country": "Kiribati",
+      "status": "1"
+   },
+   {
+      "Id": "3",
+      "name": "Ronald Richards",
+      "company": {
+         "id": "3a",
+         "name": "Adobe"
+      },
+      "phone": "(302) 555-0107",
+      "email": "ronald@adobe.com",
+      "country": "Israel",
+      "status": "1"
+   },
+   {
+      "Id": "4",
+      "name": "Marvin McKinney",
+      "company": {
+         "id": "4a",
+         "name": "Tesla"
+      },
+      "phone": "(252) 555-0126",
+      "email": "marvin@tesla.com",
+      "country": "Iran",
+      "status": "0"
+   },
+   {
+      "Id": "5",
+      "name": "Jerome Bell",
+      "company": {
+         "id": "5a",
+         "name": "Google"
+      },
+      "phone": "(629) 555-0129",
+      "email": "jerome@google.com",
+      "country": "Réunion",
+      "status": "0"
+   },
+   {
+      "Id": "6",
+      "name": "Kathryn Murphy",
+      "company": {
+         "id": "6a",
+         "name": "Microsoft"
+      },
+      "phone": "(406) 555-0120",
+      "email": "kathryn@microsoft.com",
+      "country": "Curaçao",
+      "status": "0"
+   },
+   {
+      "Id": "7",
+      "name": "Jacob Jones",
+      "company": {
+         "id": "7a",
+         "name": "Yahoo"
+      },
+      "phone": "(208) 555-0112",
+      "email": "jacob@yahoo.com",
+      "country": "Brazil",
+      "status": "0"
+   },
+   {
+      "Id": "8",
+      "name": "Kristin Watson",
+      "company": {
+         "id": "8a",
+         "name": "Facebook"
+      },
+      "phone": "(704) 555-0127",
+      "email": "kristin@facebook.com",
+      "country": "Åland Islands",
+      "status": "1"
+   }
+]
